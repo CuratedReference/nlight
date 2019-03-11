@@ -1,6 +1,10 @@
 # NLight
 Toolbox for .NET projects
 
+## Reference Article on Code Projectrelated to CSV Reader
+
+https://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader
+
 ## Features
 
 ### NLight.Collections
@@ -54,3 +58,4 @@ Toolbox for .NET projects
 ## Contributing Code
 
 To contribute to this project, please follow the standard .NET framework design guidelines and indent your code with tabs. Your code should compile with no warning in release mode.
+
