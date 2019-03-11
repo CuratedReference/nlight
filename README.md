@@ -1,7 +1,7 @@
 # NLight
 Toolbox for .NET projects
 
-## Reference Article on Code Projectrelated to CSV Reader
+## CSV Reader article on code project 
 
 https://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader
 
